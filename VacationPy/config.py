@@ -1,1 +1,2 @@
+gkey = "AIzaSyBaGz343okAMJcBLKOryit_X0NwGtFqHVI"
 api_key = "932d8bc00c9231161295b259f5ff3550"
